@@ -1,7 +1,7 @@
-<a href="https://pepeland.net"><img src="https://raw.githubusercontent.com/pepelandclub/.github/main/profile/website.svg"></a>
+[![Вебсайт PepeLand](https://gist.githubusercontent.com/rilaveon/d035c28fef04cc163d4f8ee34539befe/raw/ee6cefe91d31786b9f8ab1861cc1617c7f593c25/own__website.svg)](https://pepeland.net)
 
-<a href="https://pepeland.net/ds"><img src="https://raw.githubusercontent.com/pepelandclub/.github/main/profile/ds.svg"></a>
+[![Сервер в Discord](https://gist.githubusercontent.com/rilaveon/d035c28fef04cc163d4f8ee34539befe/raw/ee6cefe91d31786b9f8ab1861cc1617c7f593c25/social__discord.svg)](https://pepeland.net/ds)
 
-<a href="https://pepeland.net/tg"><img src="https://raw.githubusercontent.com/pepelandclub/.github/main/profile/tg.svg"></a>
+[![Канал в Telegram](https://gist.githubusercontent.com/rilaveon/d035c28fef04cc163d4f8ee34539befe/raw/ee6cefe91d31786b9f8ab1861cc1617c7f593c25/social__telegram.svg)](https://pepeland.net/tg)
 
-<a href="https://pepeland.net/vk"><img src="https://raw.githubusercontent.com/pepelandclub/.github/main/profile/vkontakte.svg"></a>
+[![Группа ВКонтакте](https://gist.githubusercontent.com/rilaveon/d035c28fef04cc163d4f8ee34539befe/raw/ee6cefe91d31786b9f8ab1861cc1617c7f593c25/social__vk.svg)](https://pepeland.net/vk)
